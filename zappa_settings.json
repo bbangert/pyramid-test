@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "pyramid_test.app", 
+        "s3_bucket": "zappa-m88skx56j"
+    }
+}
